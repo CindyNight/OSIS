@@ -18,3 +18,5 @@
    ![Второе_задание2](SecondTwo.png)
 
    ![Второе_задание3](SecondThree.png)
+
+   ![Второе_задание4](SecondFour.png)
