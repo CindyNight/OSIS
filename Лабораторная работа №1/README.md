@@ -28,4 +28,8 @@
 
    И настроила подключение к интернету через Bridged.
 
-   ![Третье_задание](ThirdOne.png)
+   ![Третье_задание1](ThirdOne.png)
+
+   А также выполнила обновление системы, используя sudo apt-get update и sudo apt-get upgrade.
+
+   ![Третье_задание2](ThirdTwo.png)
