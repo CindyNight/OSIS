@@ -17,3 +17,10 @@
    ![Первое_задание2](FirstTwo.png)
 
    ![Первое_задание3](FirstThree.png)
+
+   ![Первое_задание4](FirstFour.png)
+
+2. Настройка прав доступа:
+   Я создала каталоги /home/admin/data и /home/admin/logs.
+
+   ![Второе_задание](Second.png)
