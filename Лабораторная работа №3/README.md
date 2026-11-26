@@ -13,3 +13,9 @@
    Установила следующие пакеты: vim, curl, net-tools, apache2.
 
    ![Первое_задание2](FirstTwo.png)
+
+   ![Первое_задание3](FirstThree.png)
+
+   ![Первое_задание4](FirstFour.png)
+
+   ![Первое_задание5](FirstFive.png)
