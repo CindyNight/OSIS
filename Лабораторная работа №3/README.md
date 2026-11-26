@@ -44,3 +44,11 @@
    ![Второе_задание5](SecondFive.png)
 
    ![Второе_задание6](SecondSix.png)
+
+   Настроила ежедневный перезапуск Apache с использованием cron.
+
+   ![Второе_задание7](SecondSeven.png)
+
+   ![Второе_задание8](SecondEight.png)
+
+   ![Второе_задание9](SecondNine.png)
