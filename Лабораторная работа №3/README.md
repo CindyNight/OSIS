@@ -9,3 +9,7 @@
    ![Первое_задание](First.png)
 
    ![Первое_задание1](FirstOne.png)
+
+   Установила следующие пакеты: vim, curl, net-tools, apache2.
+
+   ![Первое_задание2](FirstTwo.png)
